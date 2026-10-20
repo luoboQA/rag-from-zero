@@ -5,7 +5,7 @@
 **从零跑通 RAG 完整链路,跟着代码学,完整开源**
 
 A complete, runnable, Chinese RAG tutorial — built by hand, no LangChain magic.
-
+![rag_detail_v2](https://github.com/langchain-ai/rag-from-scratch/assets/122662504/54a2d76c-b07e-49e7-b4ce-fc45667360a1)
 [![Stars](https://img.shields.io/github/stars/MisterBooo/rag-from-zero?style=social)](https://github.com/MisterBooo/rag-from-zero)
 [![Forks](https://img.shields.io/github/forks/MisterBooo/rag-from-zero?style=social)](https://github.com/MisterBooo/rag-from-zero/fork)
 [![Chapters](https://img.shields.io/badge/教程-10%20章%20%2B%20附录-blue)](https://www.wushixiongai.com/projects/rag-system)
